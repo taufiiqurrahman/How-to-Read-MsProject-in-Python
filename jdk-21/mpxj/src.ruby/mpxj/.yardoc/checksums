@@ -1,0 +1,9 @@
+lib/mpxj.rb 5d7348b7762d2bc02c94adc751b0daa2a69dded3
+lib/mpxj/task.rb 745d59c02e8dc1b92f2344c936001adec9c97c1c
+lib/mpxj/reader.rb 6e45a47f9d8f7a2a7cf30f7ffb752329d7df8f8b
+lib/mpxj/project.rb a9c74a2ae22571819642e2458588c07058467c11
+lib/mpxj/version.rb f48e60bd04645e9e81beb83cc2bd780eb8405ffe
+lib/mpxj/resource.rb fa07404cd916520fb47f788b22131a0d9b83714d
+lib/mpxj/relation.rb 39859830a4036f41d51dd4f17223ffac88aec0e1
+lib/mpxj/container.rb 3c81db06c69171ea48ecb2ac968d49b9437e4f5d
+lib/mpxj/assignment.rb ba90104562f3e605cca0cf8f789cd027ac8bf055

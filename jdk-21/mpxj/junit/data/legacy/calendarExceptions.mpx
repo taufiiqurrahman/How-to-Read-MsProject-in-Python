@@ -1,0 +1,35 @@
+MPX,Microsoft Project for Windows,4.0,ANSI
+10,£,1,2,",",.
+11,2,0,1,8.00,40.00,£0.00/h,£0.00/h,1,1
+12,1,1,480,/,:,,,2,1
+20,Standard,0,1,1,1,1,1,0
+25,1
+25,2,08:00,12:00,13:00,17:00
+25,3,08:00,12:00,13:00,17:00
+25,4,08:00,12:00,13:00,17:00
+25,5,08:00,12:00,13:00,17:00
+25,6,08:00,12:00,13:00,17:00
+25,7
+20,Base Calendar,0,1,1,1,1,1,0
+25,1
+25,2,08:00,12:00,13:00,17:00
+25,3,08:00,12:00,13:00,17:00
+25,4,08:00,12:00,13:00,17:00
+25,5,08:00,12:00,13:00,17:00
+25,6,08:00,12:00,13:00,17:00
+25,7
+30,caltest98,,,Standard,14 November 2005 08:00,14 November 2005 17:00,0,14 November 2005 08:00,,£0.00,£0.00,£0.00,0h,0h,0h,0%,1d,0d,0d,0%,,,,,0d,0d
+40,Name,Initials,ID,Max Units,Accrue At,Unique ID
+41,1,2,40,41,45,49
+50,Resource One,R,1,1,Prorated,1
+55,Standard,2,2,2,2,2,2,2
+50,Resource Two,R,2,1,Prorated,2
+55,Base Calendar,2,2,2,2,2,2,2
+50,Resource Three,R,3,1,Prorated,3
+55,Base Calendar,2,2,2,2,2,2,2
+57,01/11/05,04/11/05,0
+57,21/11/05,25/11/05,0
+60,Name,WBS,Outline Level,Duration,% Complete,Start,Finish,Early Start,Early Finish,Late Start,Late Finish,Fixed,Critical,ID,Constraint Type,Priority,Unique ID,Summary,Created
+61,1,2,3,40,44,50,51,52,53,54,55,80,82,90,91,95,98,120,125
+70,caltest98,0,0,1d,0%,14 November 2005 08:00,14 November 2005 17:00,14 November 2005 08:00,14 November 2005 17:00,14 November 2005 08:00,14 November 2005 17:00,No,Yes,0,As Soon As Possible,Medium,0,Yes,14 November 2005 23:05
+70,Task One,1,1,1d,0%,14 November 2005 08:00,14 November 2005 17:00,14 November 2005 08:00,14 November 2005 17:00,14 November 2005 08:00,14 November 2005 17:00,No,Yes,1,As Soon As Possible,Medium,2,No,14 November 2005 23:07
